@@ -1,0 +1,153 @@
+
+
+body {
+    direction: rtl;
+    background-color: #c8e2e2;
+}
+
+#container
+{
+    margin: 0 auto;
+    width: 960px;
+}
+
+#navigation {
+    margin: 0 auto;
+
+}
+ul {
+    list-style:none;
+}
+
+nav ul li {
+    display:inline-block;
+    float:right;
+}
+
+
+nav ul li {
+   display:block;
+     background-color: #ede7e7;
+     color:black;
+     font-family:Tahoma;
+     width:150px;
+     height:20px;
+     padding-top:10px;
+     text-decoration:none;
+     text-align:center;
+
+
+}
+
+nav ul li a:hover
+ {
+    background-color:#f6f5f5;
+}
+
+nav a{
+         text-decoration:none;
+
+}
+
+h1{
+    color:black;
+          font-family:Tahoma;
+          font-size:100;
+          padding-top:100px;
+          padding-bottom:0px;
+          font-weight:bold;
+          text-align:center;
+         
+}
+
+p{
+ color:black;
+          font-family:Tahoma;
+          font-size:80;
+          margin-top:-10px;
+          text-align:center;
+}
+
+
+h2 {
+     color:black;
+          font-family:Tahoma;
+          font-size:50;
+          padding-top:50px;
+          padding-bottom:0px;
+          font-weight:bold;
+          text-align:center;
+}
+
+h3{
+     color:black;
+          font-family:Tahoma;
+          font-size:30;
+          padding-top:0px;
+          padding-bottom:0px;
+          font-weight:bold;
+          text-align:right;
+}
+
+ul {
+     color:black;
+          font-family:Tahoma;
+          font-size:20;
+        text-align:right;
+          margin-bottom:0px;
+}
+#myImg
+{
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url(../image/shir.jpg);
+    background-repeat: no-repeat;
+    width: 720px;
+    height: 960px;
+}
+
+#mail{
+    height:50px;
+    width:50px;
+    background-image:url(../image/sprite123.png);
+    background-repeat:no-repeat;
+    position:absolute;
+    margin-right:320px;
+    background-position-x:-27px;
+    background-position-y:-36px;
+}
+
+#facebook a{
+    height: 50px;
+    width: 50px;
+    background-image: url(../image/sprite123.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-right: 370px;
+    background-position-x: -86px;
+    background-position-y: -36px;
+}
+
+
+    #facebook:hover a{
+        background-image: url(../image/sprite1234.png);
+        background-repeat: no-repeat;
+        background-position-x: -104px;
+        height: 80px;
+        width: 80px;
+    }
+
+#mail:hover {
+    background-image: url(../image/sprite1234.png);
+    background-repeat: no-repeat;
+    background-position-x: -28px;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    right: 275px;
+}
+
+#flower{
+    margin-right:350px;
+
+}
