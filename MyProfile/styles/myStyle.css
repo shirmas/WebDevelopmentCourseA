@@ -140,11 +140,11 @@ ul {
 #mail:hover {
     background-image: url(../image/sprite1234.png);
     background-repeat: no-repeat;
-    background-position-x: -78px;
+    background-position-x: -28px;
     height: 80px;
     width: 80px;
     position: absolute;
-    right: 275px;
+    right: 575px;
 }
 
 #flower{
